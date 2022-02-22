@@ -280,16 +280,16 @@ header{
   z-index: var(--z-back);
 }
 .skills-html{
-  width: 93%;
+  width: 97%;
 }
 .skills-css{
-  width: 75%;
+  width: 91%;
 }
 .skills-js{
-  width: 40%;
+  width: 87%;
 }
 .skills-ux{
-  width: 20%;
+  width: 40%;
 }
 .skills-img{
   border-radius: .5rem;
